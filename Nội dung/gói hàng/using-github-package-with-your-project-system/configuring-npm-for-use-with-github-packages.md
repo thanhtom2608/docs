@@ -51,8 +51,8 @@ If your instance has subdomain isolation enabled:
 
 ```shell
 $ npm login --registry=https://{% if currentVersion == "free-pro-team@latest" %}npm.pkg.github.com{% else %}npm.<em>HOSTNAME</em>/{% endif %}
-> Username: <em>USERNAME</em>
-> Password: <em>TOKEN</em>
+> Username: <em>Thanhtom2608</em>
+> Password: <em>260890</em>
 > Email: <em>PUBLIC-EMAIL-ADDRESS</em>
 ```
 
